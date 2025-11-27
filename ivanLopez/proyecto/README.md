@@ -3,6 +3,6 @@ Mi proyecto de Examen
 	git commit
 	git push
 
-Linea añadida desde main
+Linea modificada desde la rama conflicto por IVAN LOPEZ RIVERO
 
 ## AUTOR: IVAN LOPEZ RIVERO
